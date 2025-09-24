@@ -1,4 +1,4 @@
-# 🌐 Portfólio – Desafios INCODE
+# 🌐 Portfólio – Desafio INCODE
 
 Este é um projeto de **página de portfólio** desenvolvido para o desafio da INCODE.  
 O objetivo é apresentar habilidades, projetos e formas de contato de maneira moderna e responsiva.
